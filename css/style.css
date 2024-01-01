@@ -1,0 +1,17 @@
+h1 {
+   font-size: 3rem;
+   font-weight: 600;
+   letter-spacing: -4px;
+   text-transform: uppercase;
+}
+
+@media(min-width: 600px) {
+   .container {
+      width: 600px;
+   }
+}
+
+.progress {
+   height: 10px;
+   width: 100%;
+}
